@@ -6,6 +6,19 @@
 
 ---
 
+## Table of Contents
+
+- [About](#about)
+- [Components](#components)
+- [Schematic](#schematic)
+- [Images](#images)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Changelog](#changelog)
+- [Contributing](#contributing)
+- [License](#license)
+- [Authors](#authors)
+
 ## About
 
 `LCD` is a simple Lego 7-segment display made with Arduino.
