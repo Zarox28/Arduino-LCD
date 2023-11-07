@@ -27,11 +27,11 @@
 
 ## Images
 
-<div style="display: flex; flex-wrap: wrap">
-  <img src="./src/img/display_1.jpeg" width="50%">
-  <img src="./src/img/display_2.jpeg" width="50%">
-  <img src="./src/img/display_3.jpeg" width="50%">
-  <img src="./src/img/display_4.jpeg" width="50%">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="./src/img/display_1.jpeg" width="40%">
+  <img src="./src/img/display_2.jpeg" width="40%">
+  <img src="./src/img/display_3.jpeg" width="40%">
+  <img src="./src/img/display_4.jpeg" width="40%">
 </div>
 
 ## Installation
