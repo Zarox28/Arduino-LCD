@@ -46,7 +46,7 @@
 
 ## Images
 
-<div style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="./assets/display_1.jpeg" width="40%">
   <img src="./assets/display_2.jpeg" width="40%">
   <img src="./assets/display_3.jpeg" width="40%">
