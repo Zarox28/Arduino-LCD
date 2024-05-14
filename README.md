@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>LCD</h1>
+  <h1>Arduino - LCD</h1>
 
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
