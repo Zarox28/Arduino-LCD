@@ -1,6 +1,12 @@
-# LCD
+<div align="center">
+  <h1>LCD</h1>
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge"/>
+</div>
+
+<br />
 
 > Version: **1.0.1**
 
@@ -36,15 +42,15 @@
 
 ## Schematic
 
-![Schematic](src/img/wirering.png)
+![Schematic](assets/wirering.png)
 
 ## Images
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="./src/img/display_1.jpeg" width="40%">
-  <img src="./src/img/display_2.jpeg" width="40%">
-  <img src="./src/img/display_3.jpeg" width="40%">
-  <img src="./src/img/display_4.jpeg" width="40%">
+  <img src="./assets/display_1.jpeg" width="40%">
+  <img src="./assets/display_2.jpeg" width="40%">
+  <img src="./assets/display_3.jpeg" width="40%">
+  <img src="./assets/display_4.jpeg" width="40%">
 </div>
 
 ## Installation
@@ -62,7 +68,7 @@
 
 ## Changelog
 
-see [CHANGELOG.md](CHANGELOG.md) for changes
+See [CHANGELOG.md](CHANGELOG.md) for changes
 
 ## Contributing
 
@@ -74,4 +80,4 @@ This project is licensed under the AGPL v3 License - see the [LICENSE.md](LICENS
 
 ## Authors
 
-- [@Zarox28](https://github.com/Zarox28)
+- **[@Zarox28](https://github.com/Zarox28)**
